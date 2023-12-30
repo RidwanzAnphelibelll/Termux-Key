@@ -6,9 +6,6 @@
 
 * ```$ pkg update && pkg upgrade```
 * ```$ pkg install git```
-* ```$ pip install requests```
-* ```$ pip install bs4```
-* ```$ pip install rich```
 * ```$ git clone https://github.com/RidwanzAnphelibelll/Termux-Key```
 * ```$ cd Termux-Key```
 * ```$ bash key.sh```
